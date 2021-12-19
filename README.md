@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @s0perdel, a student from Kharkiv, Ukraine.
+- 👀 I’m interested in learning the art of programming :)
+- 🌱 I’m currently learning in Python and any libraries for it.
+- 💞️ I’m looking to collaborate on some projects. But today I'm not ready)
+- 📫 How to reach me: Telegram @ledrep0s Email: s0pran0del@gmail.com
